@@ -31,7 +31,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 - [ ] [SMACSS](https://smacss.com/book/)
 - [ ] [Building and Securing a Modern Backend API](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api)
-- [ x ] [I Contributed To Open Source, And So Can You](https://www.smashingmagazine.com/2016/08/contributing-open-source/) 
+- [x] [I Contributed To Open Source, And So Can You](https://www.smashingmagazine.com/2016/08/contributing-open-source/) 
 - [ ] [How To Write An Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 
 ### Things I'll Do in the Future:
