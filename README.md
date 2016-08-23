@@ -26,13 +26,13 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Create Fly Fishing Tips Email To Send
 - [ ] Finish Devtools videos
 
-### This Week's Reading List:
+### This Week's Reading/Watching List:
 
 - [ ] [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 - [ ] [SMACSS](https://smacss.com/book/)
 - [ ] [Building and Securing a Modern Backend API](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api)
-- [ ] [I Contributed To Open Source, And So Can You](https://www.smashingmagazine.com/2016/08/contributing-open-source/) 
-- [ ]
+- [ x ] [I Contributed To Open Source, And So Can You](https://www.smashingmagazine.com/2016/08/contributing-open-source/) 
+- [ ] [How To Write An Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
@@ -42,7 +42,6 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Build a JavaScript Library
 - [ ] Contribute To An Open Source Project
 - [ ] Start 5 Minutes of Fly Fishing Podcast
-- [ ] 
 
 ### Backlog: Side Project &amp; Other Ideas
 * Find-A-Lens
