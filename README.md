@@ -22,9 +22,9 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Watch [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] Progress on Find-A-Lens website
 - [ ] New Post On Clint Losee Photography Blog
-- [ ] A/B Test TheFlyFishingBasics.com
-- [ ] Create Fly Fishing Tips Email To Send
+- [x] Create Fly Fishing Tips Email To Send
 - [ ] Finish Devtools videos
+- [ ] Look Into Webpack for Angular 2
 
 ### This Week's Reading/Watching List:
 
@@ -38,6 +38,8 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Understand SASS More In-Depth
 - [ ] Build a Site Using React
 - [ ] Build a Site Using Angular 2
+- [ ] Build a React Native App
+- [ ] Learn Python
 - [ ] Fill Out Resources Directory With All The Links I Have Saved
 - [ ] Build a JavaScript Library
 - [ ] Contribute To An Open Source Project
