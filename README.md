@@ -27,6 +27,8 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 
 ### This Week's Reading/Watching List:
 
+- [ ] [Angular 2: Quick Start](https://www.youtube.com/watch?v=f80wkYP5rTI)
+- [ ] [ES6 and TypeScript](https://www.youtube.com/watch?v=CG2Ut1Wski8&feature=youtu.be&t=2m50s&utm_content=educational&utm_campaign=2016-08-25&utm_source=email-sendgrid&utm_term=133370&utm_medium=486884)
 - [ ] [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 - [ ] [SMACSS](https://smacss.com/book/)
 - [ ] [Building and Securing a Modern Backend API](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api)
