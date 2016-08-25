@@ -38,6 +38,3 @@ Feel free to add to the list!
 - [x] Delivering Happiness - Tony Hsieh 
 
 ## July 2016
-- [] 
-- [] 
-- [] 

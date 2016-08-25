@@ -19,12 +19,11 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Finish watching SASS &amp; Compass Refresher [Next Step With Sass and Compass](https://www.sitepoint.com/premium/courses/the-next-step-with-sass-and-compass-2863/lesson/4/step/3)
 - [ ] Read 20 Pages of Eloquent JavaScript
 - [ ] Research Seattle Trip Stuff To do
-- [ ] Watch [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] Progress on Find-A-Lens website
 - [ ] New Post On Clint Losee Photography Blog
 - [x] Create Fly Fishing Tips Email To Send
 - [ ] Finish Devtools videos
-- [ ] Look Into Webpack for Angular 2
+- [x] Look Into Webpack for Angular 2
 
 ### This Week's Reading/Watching List:
 
@@ -33,6 +32,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [Building and Securing a Modern Backend API](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api)
 - [x] [I Contributed To Open Source, And So Can You](https://www.smashingmagazine.com/2016/08/contributing-open-source/) 
 - [ ] [How To Write An Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
+- [ ] [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
