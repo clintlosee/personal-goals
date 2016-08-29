@@ -10,20 +10,20 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 4. Increase Photography Reach
 5. TBA
 
-# August 21, 2016
+# August 28, 2016
 
-### This Week's Focus: 
+### This Week's Focus: Get the hang of this
 
-### Things I'll do This Week:
+### Things I'll do This Week: Set up this repo
 
-- [ ] Finish watching SASS &amp; Compass Refresher [Next Step With Sass and Compass](https://www.sitepoint.com/premium/courses/the-next-step-with-sass-and-compass-2863/lesson/4/step/3)
 - [ ] Read 20 Pages of Eloquent JavaScript
-- [ ] Research Seattle Trip Stuff To do
-- [ ] Progress on Find-A-Lens website
 - [ ] New Post On Clint Losee Photography Blog
-- [x] Create Fly Fishing Tips Email To Send
-- [ ] Finish Devtools videos
-- [x] Look Into Webpack for Angular 2
+- [ ] Research Seattle Trip Stuff To do
+- [ ] Provo Art Stroll
+- [ ] Create pricing tags for prints
+- [ ] Find easel
+- [ ] Finish slideshow for art show
+- [ ] Deal with mattress purchase
 
 ### This Week's Reading/Watching List:
 
@@ -32,7 +32,6 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 - [ ] [SMACSS](https://smacss.com/book/)
 - [ ] [Building and Securing a Modern Backend API](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api)
-- [x] [I Contributed To Open Source, And So Can You](https://www.smashingmagazine.com/2016/08/contributing-open-source/) 
 - [ ] [How To Write An Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 - [ ] [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 
