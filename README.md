@@ -34,6 +34,9 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [Building and Securing a Modern Backend API](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api)
 - [ ] [How To Write An Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 - [ ] [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
+- [ ] [Document existing API with Swagger](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
+- [ ] [React on the Server](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app)
+- [ ] [Build a React App with User Authentication](https://scotch.io/tutorials/build-a-react-app-with-user-authentication)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
