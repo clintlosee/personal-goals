@@ -19,11 +19,12 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Read 20 Pages of Eloquent JavaScript
 - [ ] New Post On Clint Losee Photography Blog
 - [ ] Research Seattle Trip Stuff To do
-- [ ] Provo Art Stroll
-- [ ] Create pricing tags for prints
-- [ ] Find easel
-- [ ] Finish slideshow for art show
-- [ ] Deal with mattress purchase
+- [ ] Provo Art Stroll - CANCELLED
+- [ ] Create pricing tags for prints - CANCELLED
+- [ ] Return easels
+- [ ] Finish slideshow for art show - CANCELLED
+- [x] Deal with mattress purchase
+- [ ] Continue Advanced React Course
 
 ### This Week's Reading/Watching List:
 
@@ -31,12 +32,13 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [ES6 and TypeScript](https://www.youtube.com/watch?v=CG2Ut1Wski8&feature=youtu.be&t=2m50s&utm_content=educational&utm_campaign=2016-08-25&utm_source=email-sendgrid&utm_term=133370&utm_medium=486884)
 - [ ] [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 - [ ] [SMACSS](https://smacss.com/book/)
-- [ ] [Building and Securing a Modern Backend API](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api)
+- [x] [Building and Securing a Modern Backend API](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api)
 - [ ] [How To Write An Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 - [ ] [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] [Document existing API with Swagger](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
-- [ ] [React on the Server](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app)
+- [x] [React on the Server](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app)
 - [ ] [Build a React App with User Authentication](https://scotch.io/tutorials/build-a-react-app-with-user-authentication)
+- [ ] [Webpack From First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
