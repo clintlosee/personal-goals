@@ -25,6 +25,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Finish slideshow for art show - CANCELLED
 - [x] Deal with mattress purchase
 - [ ] Continue Advanced React Course
+- [ ] Look into switching to React or Angular for RCW (Why, how, benefits, cons)
 
 ### This Week's Reading/Watching List:
 
