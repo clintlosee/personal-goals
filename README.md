@@ -35,7 +35,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] [Document existing API with Swagger](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
 - [ ] [Build a React App with User Authentication](https://scotch.io/tutorials/build-a-react-app-with-user-authentication)
-- [ ] [Webpack From First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
+- [x] [Webpack From First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
