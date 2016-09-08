@@ -18,12 +18,16 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 
 - [ ] Read 20 Pages of Eloquent JavaScript
 - [ ] New Post On Clint Losee Photography Blog
-- [ ] Research Seattle Trip Stuff To do
+- [x] Research Seattle Trip Stuff To do
 - [ ] Travel to Seattle!
 - [ ] Continue Advanced React Course
 - [ ] Look at Angular 2 Updates
 - [ ] Look into switching to React or Angular for RCW (Why, how, benefits, cons)
 - [ ] Progress on Find-A-Lens website
+- [ ] Convert portfolio to Angular 2
+- [ ] Start WordPress theme for devthirty5 Blog
+- [ ] Continue Java/Angular course
+- [ ] Continue Angular 2 RC5 course
 
 ### This Week's Reading/Watching List:
 
@@ -34,7 +38,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [How To Write An Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 - [ ] [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] [Document existing API with Swagger](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
-- [ ] [Build a React App with User Authentication](https://scotch.io/tutorials/build-a-react-app-with-user-authentication)
+- [x] [Build a React App with User Authentication](https://scotch.io/tutorials/build-a-react-app-with-user-authentication)
 - [x] [Webpack From First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 
 ### Things I'll Do in the Future:
