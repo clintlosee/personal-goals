@@ -38,3 +38,7 @@ Feel free to add to the list!
 - [x] Delivering Happiness - Tony Hsieh 
 
 ## July 2016
+
+## September 2016
+
+- [ ] Man's Search For Meaning - Viktor E. Frankl
