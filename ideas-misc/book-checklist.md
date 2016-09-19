@@ -41,4 +41,4 @@ Feel free to add to the list!
 
 ## September 2016
 
-- [ ] Man's Search For Meaning - Viktor E. Frankl
+- [x] Man's Search For Meaning - Viktor E. Frankl

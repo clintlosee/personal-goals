@@ -10,9 +10,9 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 4. Increase Photography Reach
 5. TBA
 
-# September 11, 2016
+# September 18, 2016
 
-### This Week's Focus: Get Back Into The Swing Of Things
+### This Week's Focus: Fall Colors and Read up on Angular 2 Release
 
 ### Things I'll do This Week: Set up this repo
 
@@ -25,17 +25,22 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Continue to convert portfolio to Angular 2
 - [ ] Continue WordPress theme for devthirty5 Blog
 - [ ] Continue Java/Angular course
-- [ ] Continue Angular 2 RC5 course
+- [ ] Continue Angular 2 course
+- [ ] Continue Python course
+- [ ] Pando Fall Photo Trip
+- [ ] Willow Lake Photo Trip
+- [ ] Submit Lens Rebates
 
 ### This Week's Reading/Watching List:
 
 - [ ] [Angular 2: Quick Start](https://www.youtube.com/watch?v=f80wkYP5rTI)
-- [ ] [ES6 and TypeScript](https://www.youtube.com/watch?v=CG2Ut1Wski8&feature=youtu.be&t=2m50s&utm_content=educational&utm_campaign=2016-08-25&utm_source=email-sendgrid&utm_term=133370&utm_medium=486884)
+- [ ] [ES6 and TypeScript Crash Course](https://www.youtube.com/watch?v=CG2Ut1Wski8&feature=youtu.be&t=2m50s&utm_content=educational&utm_campaign=2016-08-25&utm_source=email-sendgrid&utm_term=133370&utm_medium=486884)
 - [ ] [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 - [ ] [SMACSS](https://smacss.com/book/)
 - [ ] [How To Write An Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 - [ ] [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] [Document existing API with Swagger](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
+- [ ] [Getting Started with Webpack](https://scotch.io/tutorials/getting-started-with-webpack-module-bundling-magic)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
