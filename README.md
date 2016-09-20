@@ -14,7 +14,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 
 ### This Week's Focus: Fall Colors and Read up on Angular 2 Release
 
-### Things I'll do This Week: Set up this repo
+### Things I'll do This Week: Continue Onward (I know, lame)
 
 - [ ] Read 20 Pages of Eloquent JavaScript
 - [ ] New Post On Clint Losee Photography Blog
@@ -22,14 +22,14 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Look at Angular 2 Updates
 - [ ] Look into switching to React or Angular for RCW (Why, how, benefits, cons)
 - [ ] Progress on Find-A-Lens website
-- [ ] Continue to convert portfolio to Angular 2
-- [ ] Continue WordPress theme for devthirty5 Blog
-- [ ] Continue Java/Angular course
+- [x] Continue to convert portfolio to Angular 2
+- [x] Continue WordPress theme for devthirty5 Blog
+- [x] Continue Java/Angular course
 - [ ] Continue Angular 2 course
 - [ ] Continue Python course
 - [ ] Pando Fall Photo Trip
 - [ ] Willow Lake Photo Trip
-- [ ] Submit Lens Rebates
+- [x] Submit Lens Rebates
 
 ### This Week's Reading/Watching List:
 
