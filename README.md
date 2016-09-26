@@ -22,14 +22,13 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Look at Angular 2 Updates
 - [ ] Look into switching to React or Angular for RCW (Why, how, benefits, cons)
 - [ ] Progress on Find-A-Lens website
-- [x] Continue to convert portfolio to Angular 2
-- [x] Continue WordPress theme for devthirty5 Blog
-- [x] Continue Java/Angular course
+- [ ] Continue to convert portfolio to Angular 2
+- [ ] Refactor WordPress theme for devthirty5 Blog
+- [ ] Continue Java/Angular course
 - [ ] Continue Angular 2 course
 - [ ] Continue Python course
-- [ ] Pando Fall Photo Trip
-- [ ] Willow Lake Photo Trip
-- [x] Submit Lens Rebates
+- [ ] Pando Fall Photo Trip?
+- [ ] Willow Lake Photo Trip?
 
 ### This Week's Reading/Watching List:
 
@@ -41,6 +40,9 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] [Document existing API with Swagger](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
 - [ ] [Getting Started with Webpack](https://scotch.io/tutorials/getting-started-with-webpack-module-bundling-magic)
+- [ ] [Twelve Fancy Chrome Dev Tools Tips](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.lx7vr5bkt)
+- [ ] [Create and Deploy a RESTful API in 10 minutes](https://www.youtube.com/watch?v=6x-ijyG-ack)
+- [ ] [Building Hacker News with Angular 2](http://houssein.me/angular2-hacker-news)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth

@@ -42,3 +42,4 @@ Feel free to add to the list!
 ## September 2016
 
 - [x] Man's Search For Meaning - Viktor E. Frankl
+- [ ] The Everything Store - Brad Stone
