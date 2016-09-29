@@ -22,13 +22,14 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Look at Angular 2 Updates
 - [ ] Look into switching to React or Angular for RCW (Why, how, benefits, cons)
 - [ ] Progress on Find-A-Lens website
-- [ ] Continue to convert portfolio to Angular 2
+- [x] Continue to convert portfolio to Angular 2
 - [ ] Refactor WordPress theme for devthirty5 Blog
-- [ ] Continue Java/Angular course
-- [ ] Continue Angular 2 course
+- [x] Continue Java/Angular course
+- [x] Continue Angular 2 course
 - [ ] Continue Python course
 - [ ] Pando Fall Photo Trip?
 - [ ] Willow Lake Photo Trip?
+- [ ] Wife birthday stuff
 
 ### This Week's Reading/Watching List:
 
@@ -41,8 +42,11 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [Document existing API with Swagger](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
 - [ ] [Getting Started with Webpack](https://scotch.io/tutorials/getting-started-with-webpack-module-bundling-magic)
 - [ ] [Twelve Fancy Chrome Dev Tools Tips](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.lx7vr5bkt)
-- [ ] [Create and Deploy a RESTful API in 10 minutes](https://www.youtube.com/watch?v=6x-ijyG-ack)
+- [x] [Create and Deploy a RESTful API in 10 minutes](https://www.youtube.com/watch?v=6x-ijyG-ack)
 - [ ] [Building Hacker News with Angular 2](http://houssein.me/angular2-hacker-news)
+- [x] [AJAX, RESTful API Tutorial](https://www.youtube.com/watch?v=G0BzzuXS8gI)
+- [ ] [Build Instagram Style App with Cloudinary](https://scotch.io/bar-talk/build-the-back-end-for-your-own-instagram-style-app-with-cloudinary)
+- [ ] Continue Reading [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
