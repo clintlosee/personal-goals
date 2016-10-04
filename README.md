@@ -22,16 +22,18 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Look at Angular 2 Updates
 - [ ] Look into switching to React or Angular for RCW (Why, how, benefits, cons)
 - [ ] Progress on Find-A-Lens website
-- [ ] Continue to convert portfolio to Angular 2
-- [ ] Refactor WordPress theme for devthirty5 Blog
+- [x] Continue to convert portfolio to Angular 2
+- [x] Fix WordPress theme for devthirty5 Blog - menu not working
 - [ ] Continue Java/Angular course
 - [ ] Continue Angular 2 course
 - [ ] Continue Python course
 - [ ] Pando Fall Photo Trip?
 - [ ] Willow Lake Photo Trip?
 - [ ] Look into Surge for portfolio site hosting
-- [ ] Fix image loading with Webpack in Angular 2 on portfolio site
+- [ ] See if I can fix image loading with Webpack in Angular 2 on portfolio site
 - [ ] Look into DVD storage/ripping
+- [x] Invoice for Rita office Project
+- [ ] Order prints for Lunceford client
 
 ### This Week's Reading/Watching List:
 
@@ -43,11 +45,11 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] [Document existing API with Swagger](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
 - [ ] [Getting Started with Webpack](https://scotch.io/tutorials/getting-started-with-webpack-module-bundling-magic)
-- [ ] [Twelve Fancy Chrome Dev Tools Tips](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.lx7vr5bkt)
+- [x] [Twelve Fancy Chrome Dev Tools Tips](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.lx7vr5bkt)
 - [ ] [Building Hacker News with Angular 2](http://houssein.me/angular2-hacker-news)
 - [ ] [Build Instagram Style App with Cloudinary](https://scotch.io/bar-talk/build-the-back-end-for-your-own-instagram-style-app-with-cloudinary)
 - [ ] Continue Reading [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
-- [ ] [Electron: Desktop Apps with Web Languages]()
+- [x] [Electron: Desktop Apps with Web Languages]()
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
