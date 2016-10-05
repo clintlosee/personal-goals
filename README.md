@@ -33,23 +33,25 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] See if I can fix image loading with Webpack in Angular 2 on portfolio site
 - [ ] Look into DVD storage/ripping
 - [x] Invoice for Rita office Project
-- [ ] Order prints for Lunceford client
+- [x] Order prints for Lunceford client
 
 ### This Week's Reading/Watching List:
 
 - [ ] [Angular 2: Quick Start](https://www.youtube.com/watch?v=f80wkYP5rTI)
-- [ ] [ES6 and TypeScript Crash Course](https://www.youtube.com/watch?v=CG2Ut1Wski8&feature=youtu.be&t=2m50s&utm_content=educational&utm_campaign=2016-08-25&utm_source=email-sendgrid&utm_term=133370&utm_medium=486884)
-- [ ] [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
+- [ ] [*ES6 and TypeScript Crash Course](https://www.youtube.com/watch?v=CG2Ut1Wski8&feature=youtu.be&t=2m50s&utm_content=educational&utm_campaign=2016-08-25&utm_source=email-sendgrid&utm_term=133370&utm_medium=486884)
+- [ ] [*ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 - [ ] [SMACSS](https://smacss.com/book/)
 - [ ] [How To Write An Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 - [ ] [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] [Document existing API with Swagger](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
-- [ ] [Getting Started with Webpack](https://scotch.io/tutorials/getting-started-with-webpack-module-bundling-magic)
+- [ ] [*Getting Started with Webpack](https://scotch.io/tutorials/getting-started-with-webpack-module-bundling-magic)
 - [x] [Twelve Fancy Chrome Dev Tools Tips](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.lx7vr5bkt)
 - [ ] [Building Hacker News with Angular 2](http://houssein.me/angular2-hacker-news)
 - [ ] [Build Instagram Style App with Cloudinary](https://scotch.io/bar-talk/build-the-back-end-for-your-own-instagram-style-app-with-cloudinary)
-- [ ] Continue Reading [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
+- [x] Continue Reading [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
 - [x] [Electron: Desktop Apps with Web Languages]()
+- [ ] [*Angular 2 AuthO App](https://www.youtube.com/watch?v=i_dHFvi1BJc)
+- [ ] [*Angular 2 Authentication Tutorial](https://auth0.com/blog/angular-2-authentication/)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
