@@ -10,9 +10,9 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 4. Increase Photography Reach
 5. TBA
 
-# October 2, 2016
+# October 9, 2016
 
-### This Week's Focus: Make it through another week...
+### This Week's Focus: Make it through another week......
 
 ### Things I'll do This Week: Continue Onward (I know, lame)
 
@@ -22,18 +22,16 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Look at Angular 2 Updates
 - [ ] Look into switching to React or Angular for RCW (Why, how, benefits, cons)
 - [ ] Progress on Find-A-Lens website
-- [x] Continue to convert portfolio to Angular 2
-- [x] Fix WordPress theme for devthirty5 Blog - menu not working
+- [ ] Continue to convert portfolio to Angular 2
+- [ ] WordPress theme updates for devthirty5 Blog
 - [ ] Continue Java/Angular course
-- [ ] Continue Angular 2 course
 - [ ] Continue Python course
-- [ ] Pando Fall Photo Trip?
-- [ ] Willow Lake Photo Trip?
 - [ ] Look into Surge for portfolio site hosting
 - [ ] See if I can fix image loading with Webpack in Angular 2 on portfolio site
-- [ ] Look into DVD storage/ripping
-- [x] Invoice for Rita office Project
-- [x] Order prints for Lunceford client
+- [ ] DVD storage/ripping
+- [ ] Order prints Rita office Project
+- [ ] Follow up on Utah Valley Hospital images with Landon
+- [ ] Figure out ordering process from Art Decour (Tracy Behunin)
 
 ### This Week's Reading/Watching List:
 
@@ -45,11 +43,8 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] [Document existing API with Swagger](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
 - [ ] [*Getting Started with Webpack](https://scotch.io/tutorials/getting-started-with-webpack-module-bundling-magic)
-- [x] [Twelve Fancy Chrome Dev Tools Tips](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.lx7vr5bkt)
 - [ ] [Building Hacker News with Angular 2](http://houssein.me/angular2-hacker-news)
 - [ ] [Build Instagram Style App with Cloudinary](https://scotch.io/bar-talk/build-the-back-end-for-your-own-instagram-style-app-with-cloudinary)
-- [x] Continue Reading [You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
-- [x] [Electron: Desktop Apps with Web Languages]()
 - [ ] [*Angular 2 AuthO App](https://www.youtube.com/watch?v=i_dHFvi1BJc)
 - [ ] [*Angular 2 Authentication Tutorial](https://auth0.com/blog/angular-2-authentication/)
 
