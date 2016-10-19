@@ -10,7 +10,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 4. Increase Photography Reach
 5. TBA
 
-# October 9, 2016
+# October 16, 2016
 
 ### This Week's Focus: Make it through another week......
 
@@ -19,7 +19,8 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Read 20 Pages of Eloquent JavaScript
 - [ ] New Post On Clint Losee Photography Blog
 - [ ] Continue Advanced React Course
-- [ ] Look at Angular 2 Updates
+- [ ] Cotinue Node JS Course
+- [ ] Angular 2 MEAN Course Review new content
 - [ ] Look into switching to React or Angular for RCW (Why, how, benefits, cons)
 - [ ] Progress on Find-A-Lens website
 - [ ] Continue to convert portfolio to Angular 2
@@ -28,10 +29,12 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Continue Python course
 - [ ] Look into Surge for portfolio site hosting
 - [ ] See if I can fix image loading with Webpack in Angular 2 on portfolio site
-- [ ] DVD storage/ripping
-- [ ] Order prints Rita office Project
-- [ ] Follow up on Utah Valley Hospital images with Landon
-- [ ] Figure out ordering process from Art Decour (Tracy Behunin)
+- [ ] More DVD storage/ripping
+- [ ] Order prints Rita office Project - Metal print
+- [ ] Deliver prints to Lunceford
+- [x] Progress on FreeCodeCamp
+- [ ] Jared and the Mill Concert
+- [ ] Look into Halloween site skin for work
 
 ### This Week's Reading/Watching List:
 
@@ -47,6 +50,8 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [Build Instagram Style App with Cloudinary](https://scotch.io/bar-talk/build-the-back-end-for-your-own-instagram-style-app-with-cloudinary)
 - [ ] [*Angular 2 AuthO App](https://www.youtube.com/watch?v=i_dHFvi1BJc)
 - [ ] [*Angular 2 Authentication Tutorial](https://auth0.com/blog/angular-2-authentication/)
+- [ ] [IndexDB PWA Tutorial](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
+- [ ] [React Native Best Practices](https://reactjs.co/react-native-convention/)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
