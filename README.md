@@ -10,7 +10,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 4. Increase Photography Reach
 5. TBA
 
-# October 16, 2016
+# October 23, 2016
 
 ### This Week's Focus: Make it through another week......
 
@@ -20,7 +20,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] New Post On Clint Losee Photography Blog
 - [ ] Continue Advanced React Course
 - [ ] Cotinue Node JS Course
-- [ ] Angular 2 MEAN Course Review new content
+- [ ] Angular 2 MEAN Course Continue New Seed Project
 - [ ] Look into switching to React or Angular for RCW (Why, how, benefits, cons)
 - [ ] Progress on Find-A-Lens website
 - [ ] Continue to convert portfolio to Angular 2
@@ -29,12 +29,8 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Continue Python course
 - [ ] Look into Surge for portfolio site hosting
 - [ ] See if I can fix image loading with Webpack in Angular 2 on portfolio site
-- [ ] More DVD storage/ripping
-- [ ] Order prints Rita office Project - Metal print
-- [ ] Deliver prints to Lunceford
-- [x] Progress on FreeCodeCamp
-- [ ] Jared and the Mill Concert
-- [ ] Look into Halloween site skin for work
+- [ ] Progress on FreeCodeCamp
+- [ ] More DVD Conversions
 
 ### This Week's Reading/Watching List:
 
@@ -52,6 +48,8 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [*Angular 2 Authentication Tutorial](https://auth0.com/blog/angular-2-authentication/)
 - [ ] [IndexDB PWA Tutorial](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
 - [ ] [React Native Best Practices](https://reactjs.co/react-native-convention/)
+- [ ] [JavaScript Array Methods](https://www.youtube.com/watch?v=uXV7KwRubwM)
+- [ ] [How to Build Your Own Uber-for-X App](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253?_branch_match_id=304619048814071969#.ruv3qw5eg)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
