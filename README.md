@@ -10,7 +10,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 4. Increase Photography Reach
 5. TBA
 
-# October 23, 2016
+# October 30, 2016
 
 ### This Week's Focus: Make it through another week......
 
@@ -19,8 +19,8 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Read 20 Pages of Eloquent JavaScript
 - [ ] New Post On Clint Losee Photography Blog
 - [ ] Continue Advanced React Course
-- [ ] Cotinue Node JS Course
-- [ ] Angular 2 MEAN Course Continue New Seed Project
+- [ ] Continue Node JS Course
+- [ ] Continue Angular 2 MEAN Course Continue New Seed Project
 - [ ] Look into switching to React or Angular for RCW (Why, how, benefits, cons)
 - [ ] Progress on Find-A-Lens website
 - [ ] Continue to convert portfolio to Angular 2
@@ -31,6 +31,10 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] See if I can fix image loading with Webpack in Angular 2 on portfolio site
 - [ ] Progress on FreeCodeCamp
 - [ ] More DVD Conversions
+- [ ] Free up some hard drive space
+- [ ] Fill out mail in voting stuff
+- [ ] Get Phones Mailed Off
+- [ ] Email photography student about her project.
 
 ### This Week's Reading/Watching List:
 
@@ -48,9 +52,9 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [*Angular 2 Authentication Tutorial](https://auth0.com/blog/angular-2-authentication/)⭐
 - [ ] [IndexDB PWA Tutorial](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
 - [ ] [React Native Best Practices](https://reactjs.co/react-native-convention/)
-- [ ] [JavaScript Array Methods](https://www.youtube.com/watch?v=uXV7KwRubwM)
 - [ ] [How to Build Your Own Uber-for-X App](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253?_branch_match_id=304619048814071969#.ruv3qw5eg)
 - [ ] [Practical ES6 Book](https://ponyfoo.com/books/practical-es6/chapters#toc)⭐
+- [ ] [Choose Grunt, Gulp or NPM](https://ponyfoo.com/articles/choose-grunt-gulp-or-npm)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
