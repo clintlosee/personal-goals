@@ -10,7 +10,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 4. Increase Photography Reach
 5. TBA
 
-# October 30, 2016
+# November 6, 2016
 
 ### This Week's Focus: Make it through another week......
 
@@ -30,11 +30,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Look into Surge for portfolio site hosting
 - [ ] See if I can fix image loading with Webpack in Angular 2 on portfolio site
 - [ ] Progress on FreeCodeCamp
-- [ ] More DVD Conversions
-- [ ] Free up some hard drive space
-- [ ] Fill out mail in voting stuff
-- [ ] Get Phones Mailed Off
-- [ ] Email photography student about her project.
+- [ ] Vote!
 
 ### This Week's Reading/Watching List:
 
@@ -53,8 +49,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [IndexDB PWA Tutorial](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
 - [ ] [React Native Best Practices](https://reactjs.co/react-native-convention/)
 - [ ] [How to Build Your Own Uber-for-X App](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253?_branch_match_id=304619048814071969#.ruv3qw5eg)
-- [ ] [Practical ES6 Book](https://ponyfoo.com/books/practical-es6/chapters#toc)⭐
-- [ ] [Choose Grunt, Gulp or NPM](https://ponyfoo.com/articles/choose-grunt-gulp-or-npm)
+- [ ] Start Reading [Practical ES6 Book](https://ponyfoo.com/books/practical-es6/chapters#toc)⭐
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
