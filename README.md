@@ -10,7 +10,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 4. Increase Photography Reach
 5. TBA
 
-# November 6, 2016
+# November 13, 2016
 
 ### This Week's Focus: Make it through another week......
 
@@ -20,7 +20,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] New Post On Clint Losee Photography Blog
 - [ ] Continue Advanced React Course
 - [ ] Continue Node JS Course
-- [ ] Continue Angular 2 MEAN Course Continue New Seed Project
+- [x] Continue React Native Course
 - [ ] Look into switching to React or Angular for RCW (Why, how, benefits, cons)
 - [ ] Progress on Find-A-Lens website
 - [ ] Continue to convert portfolio to Angular 2
@@ -30,7 +30,6 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Look into Surge for portfolio site hosting
 - [ ] See if I can fix image loading with Webpack in Angular 2 on portfolio site
 - [ ] Progress on FreeCodeCamp
-- [ ] Vote!
 
 ### This Week's Reading/Watching List:
 
@@ -42,6 +41,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] [Document existing API with Swagger](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
 - [ ] [*Getting Started with Webpack](https://scotch.io/tutorials/getting-started-with-webpack-module-bundling-magic)⭐
+- [ ] [*Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.r2jwvsaby)⭐
 - [ ] [Building Hacker News with Angular 2](http://houssein.me/angular2-hacker-news)
 - [ ] [Build Instagram Style App with Cloudinary](https://scotch.io/bar-talk/build-the-back-end-for-your-own-instagram-style-app-with-cloudinary)
 - [ ] [*Angular 2 AuthO App](https://www.youtube.com/watch?v=i_dHFvi1BJc)⭐
@@ -50,6 +50,8 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [React Native Best Practices](https://reactjs.co/react-native-convention/)
 - [ ] [How to Build Your Own Uber-for-X App](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253?_branch_match_id=304619048814071969#.ruv3qw5eg)
 - [ ] Start Reading [Practical ES6 Book](https://ponyfoo.com/books/practical-es6/chapters#toc)⭐
+- [ ] [Build a React Media Library](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1)⭐
+- [ ] [Progressive Web Apps: The definitive collection of resources](https://dev.opera.com/articles/pwa-resources/)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth

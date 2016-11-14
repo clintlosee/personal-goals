@@ -49,4 +49,4 @@ Feel free to add to the list!
 
 ## November 2016
 
-- [ ] The Wisdom of Insecurity - Alan Watts
+- [ ] The Obstable is the Way - Ryan Holiday
