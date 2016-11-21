@@ -10,7 +10,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 4. Increase Photography Reach
 5. TBA
 
-# November 13, 2016
+# November 20, 2016
 
 ### This Week's Focus: Make it through another week......
 
@@ -20,7 +20,9 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] New Post On Clint Losee Photography Blog
 - [ ] Continue Advanced React Course
 - [ ] Continue Node JS Course
-- [x] Continue React Native Course
+- [ ] Continue React Native Course
+- [ ] Continue API Course
+- [ ] Start new Angular 2 Course
 - [ ] Look into switching to React or Angular for RCW (Why, how, benefits, cons)
 - [ ] Progress on Find-A-Lens website
 - [ ] Continue to convert portfolio to Angular 2
