@@ -10,7 +10,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 4. Increase Photography Reach
 5. TBA
 
-# November 20, 2016
+# November 27, 2016
 
 ### This Week's Focus: Make it through another week......
 
