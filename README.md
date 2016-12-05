@@ -10,9 +10,9 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 4. Increase Photography Reach
 5. TBA
 
-# November 27, 2016
+# December 4, 2016
 
-### This Week's Focus: Make it through another week......
+### This Week's Focus: Get going again!
 
 ### Things I'll do This Week: Continue Onward (I know, lame)
 
@@ -38,7 +38,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [Angular 2: Quick Start](https://www.youtube.com/watch?v=f80wkYP5rTI)
 - [ ] [*ES6 and TypeScript Crash Course](https://www.youtube.com/watch?v=CG2Ut1Wski8&feature=youtu.be&t=2m50s&utm_content=educational&utm_campaign=2016-08-25&utm_source=email-sendgrid&utm_term=133370&utm_medium=486884)⭐
 - [ ] [*ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)⭐
-- [ ] [SMACSS](https://smacss.com/book/)
+- [ ] Start reading [SMACSS](https://smacss.com/book/)
 - [ ] [How To Write An Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 - [ ] [Talk on API Design](http://2016.cascadiafest.org/speakers/bryan-hughes/)
 - [ ] [Document existing API with Swagger](https://scotch.io/tutorials/document-your-already-existing-apis-with-swagger)
@@ -69,3 +69,4 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 ### Backlog: Side Project &amp; Other Ideas
 * Find-A-Lens
 * Photography Mobile App
+* Digital Flash site (Flash Cards)
