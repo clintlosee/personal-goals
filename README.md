@@ -10,7 +10,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 4. Increase Photography Reach
 5. TBA
 
-# December 4, 2016
+# December 11, 2016
 
 ### This Week's Focus: Get going again!
 
@@ -32,6 +32,10 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Look into Surge for portfolio site hosting
 - [ ] See if I can fix image loading with Webpack in Angular 2 on portfolio site
 - [ ] Progress on FreeCodeCamp
+- [ ] Finish up CLP site update and migrate to production**
+- [ ] Exercise at least 3 times this Week
+- [ ] Figure out travel for tax write-off
+- [ ] Finish up Mint budget
 
 ### This Week's Reading/Watching List:
 
@@ -53,7 +57,6 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [How to Build Your Own Uber-for-X App](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253?_branch_match_id=304619048814071969#.ruv3qw5eg)
 - [ ] Start Reading [Practical ES6 Book](https://ponyfoo.com/books/practical-es6/chapters#toc)⭐
 - [ ] [Build a React Media Library](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1)⭐
-- [ ] [Progressive Web Apps: The definitive collection of resources](https://dev.opera.com/articles/pwa-resources/)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
