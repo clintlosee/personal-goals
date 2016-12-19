@@ -10,20 +10,19 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 4. Increase Photography Reach
 5. TBA
 
-# December 11, 2016
+# December 18, 2016
 
 ### This Week's Focus: Get going again!
 
 ### Things I'll do This Week: Continue Onward (I know, lame)
 
 - [ ] Read 20 Pages of Eloquent JavaScript
-- [ ] New Post On Clint Losee Photography Blog
+- [ ] New Post On Clint Losee Photography Blog (2016 top 10)
 - [ ] Continue Advanced React Course
 - [ ] Continue Node JS Course
 - [ ] Continue React Native Course
 - [ ] Continue API Course
 - [ ] Start new Angular 2 Course
-- [ ] Look into switching to React or Angular for RCW (Why, how, benefits, cons)
 - [ ] Progress on Find-A-Lens website
 - [ ] Continue to convert portfolio to Angular 2
 - [ ] WordPress theme updates for devthirty5 Blog
@@ -32,10 +31,11 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Look into Surge for portfolio site hosting
 - [ ] See if I can fix image loading with Webpack in Angular 2 on portfolio site
 - [ ] Progress on FreeCodeCamp
-- [ ] Finish up CLP site update and migrate to production**
 - [ ] Exercise at least 3 times this Week
 - [ ] Figure out travel for tax write-off
 - [ ] Finish up Mint budget
+- [ ] Look into tutorials on video editing (Premiere Pro or Resolve)
+- [ ] Finish up Christmas shopping
 
 ### This Week's Reading/Watching List:
 
