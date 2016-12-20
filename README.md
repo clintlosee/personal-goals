@@ -36,6 +36,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Finish up Mint budget
 - [ ] Look into tutorials on video editing (Premiere Pro or Resolve)
 - [ ] Finish up Christmas shopping
+- [ ] Look into DigitalFlash site build out
 
 ### This Week's Reading/Watching List:
 
@@ -57,6 +58,7 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [How to Build Your Own Uber-for-X App](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253?_branch_match_id=304619048814071969#.ruv3qw5eg)
 - [ ] Start Reading [Practical ES6 Book](https://ponyfoo.com/books/practical-es6/chapters#toc)⭐
 - [ ] [Build a React Media Library](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1)⭐
+= [x] [App Development Showdown - Native vs Hybrid](https://www.smashingmagazine.com/2016/12/app-development-showdown-native-hybrid-debate/)
 
 ### Things I'll Do in the Future:
 - [ ] Understand SASS More In-Depth
