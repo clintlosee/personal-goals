@@ -22,12 +22,13 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Continue Node JS Course
 - [ ] Continue React Native Course
 - [ ] Continue API Course
+- [ ] Continue Java/Angular course
+- [ ] Continue Python course
+- [ ] Continue MongoDB course
 - [ ] Start new Angular 2 Course
 - [ ] Progress on Find-A-Lens website
 - [ ] Continue to convert portfolio to Angular 2
 - [ ] WordPress theme updates for devthirty5 Blog
-- [ ] Continue Java/Angular course
-- [ ] Continue Python course
 - [ ] Look into Surge for portfolio site hosting
 - [ ] See if I can fix image loading with Webpack in Angular 2 on portfolio site
 - [ ] Progress on FreeCodeCamp
