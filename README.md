@@ -21,10 +21,10 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Continue Advanced React Course
 - [ ] Continue Node JS Course
 - [ ] Continue React Native Course
-- [ ] Continue API Course
+- [x] Continue API Course
 - [ ] Continue Java/Angular course
 - [ ] Continue Python course
-- [ ] Continue MongoDB course
+- [x] Continue MongoDB course
 - [ ] Start new Angular 2 Course
 - [ ] Progress on Find-A-Lens website
 - [ ] Continue to convert portfolio to Angular 2
@@ -34,9 +34,9 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Progress on FreeCodeCamp
 - [ ] Exercise at least 3 times this Week
 - [ ] Figure out travel for tax write-off
-- [ ] Finish up Mint budget
+- [x] Continue tweaking Mint budget
 - [ ] Look into tutorials on video editing (Premiere Pro or Resolve)
-- [ ] Finish up Christmas shopping
+- [x] Finish up Christmas shopping
 - [ ] Look into DigitalFlash site build out
 
 ### This Week's Reading/Watching List:
