@@ -49,4 +49,8 @@ Feel free to add to the list!
 
 ## November 2016
 
-- [ ] The Obstable is the Way - Ryan Holiday
+- [x] The Obstable is the Way - Ryan Holiday ⭐
+
+## December 2016
+
+- [ ] The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime - MJ DeMarco ⭐

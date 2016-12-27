@@ -17,14 +17,14 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 ### Things I'll do This Week: Continue Onward (I know, lame)
 
 - [ ] Read 20 Pages of Eloquent JavaScript
-- [ ] New Post On Clint Losee Photography Blog (2016 top 10)
+- [x] New Post On Clint Losee Photography Blog (2016 top 10)
 - [ ] Continue Advanced React Course
 - [ ] Continue Node JS Course
 - [ ] Continue React Native Course
-- [x] Continue API Course
+- [ ] Continue API Course
 - [ ] Continue Java/Angular course
 - [ ] Continue Python course
-- [x] Continue MongoDB course
+- [ ] Continue MongoDB course
 - [ ] Start new Angular 2 Course
 - [ ] Progress on Find-A-Lens website
 - [ ] Continue to convert portfolio to Angular 2
@@ -34,9 +34,8 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] Progress on FreeCodeCamp
 - [ ] Exercise at least 3 times this Week
 - [ ] Figure out travel for tax write-off
-- [x] Continue tweaking Mint budget
-- [ ] Look into tutorials on video editing (Premiere Pro or Resolve)
-- [x] Finish up Christmas shopping
+- [ ] Continue tweaking Mint budget
+- [ ] Continue looking into tutorials on video editing (Premiere Pro and/or Resolve)
 - [ ] Look into DigitalFlash site build out
 
 ### This Week's Reading/Watching List:
@@ -59,7 +58,6 @@ Personal goals &amp; thoughts made open source because why not. This is here to 
 - [ ] [How to Build Your Own Uber-for-X App](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253?_branch_match_id=304619048814071969#.ruv3qw5eg)
 - [ ] Start Reading [Practical ES6 Book](https://ponyfoo.com/books/practical-es6/chapters#toc)⭐
 - [ ] [Build a React Media Library](https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1)⭐
-- [x] [App Development Showdown - Native vs Hybrid](https://www.smashingmagazine.com/2016/12/app-development-showdown-native-hybrid-debate/)
 - [ ] [Using Create React App with a Server](https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/)
 
 ### Things I'll Do in the Future:
